@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  api_url: 'https:https://wmubzor0ya.execute-api.us-east-2.amazonaws.com'
+  api_url: 'https://edgartrujillomodule3.s3-website-us-east-1.amazonaws.com'
 };
